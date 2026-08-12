@@ -1,0 +1,74 @@
+<style>
+
+.ayisha67 {
+    background-color: red;
+    height: 35px;
+    width: 105px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.ayisha67 {
+    background-color: red;
+    height: 35px;
+    width: 105px;
+    color: rgb(255, 255, 255);
+    border:none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: opacity 2s;
+  }
+
+.ayisha67:hover {
+  opacity: 0.8;
+ } 
+
+.ayisha67:active {
+  opacity: 0.5;
+}
+
+.lady67 { 
+   white:background-color;
+    height: 35px;
+    transition: background-color 2s, color 2s;
+    width: 75px;
+    color: #00ced1;
+    border-radius: 3px;
+    border-width:1px;
+    border-style:solid;
+    border-color: #00ced1;
+    cursor: pointer;
+    transition: background-color 2s, color 02s;
+}
+
+.lady67:hover {
+background-color: #00ced1;
+color: white;
+} 
+
+.lady67:active {
+opacity: 0.5;
+}
+
+
+.mylah67 {
+  background-color: #00ced1;
+    height: 35px;
+    width: 75px;
+    color: white;
+    border-radius: 18px;
+    border-width:1px;
+    border-style:solid;
+    border-color: white;
+}
+
+.mylah67:active {
+opacity: 0.5;
+}
+
+.mylah67:hover {
+box-shadow: 5px 5px 10px rgba(4, 26, 39, 0.15);
+}
+
+<style>
